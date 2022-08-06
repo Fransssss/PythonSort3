@@ -9,7 +9,7 @@ students = [("Andy", 'C', 20, "Pysic"),
             ("Windy", 'D', 26, "Art"),
             ("Mandy", 'B', 22, "Math")]
 
-name = lambda stud_name: stud_name[0]
+name = lambda stud_name: stud_name[0]    # index of item in list of lists
 grade = lambda stud_grade: stud_grade[1]
 age = lambda  stud_age: stud_age[2]
 major = lambda stud_major: stud_major[3]
