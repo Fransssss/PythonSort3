@@ -1,7 +1,7 @@
 # =========================
 # simple program to practice sort
 # data is list of lists
-# output datab based on user request / choice
+# output data based on user request / choice
 # =========================
 
 students = [("Andy", 'C', 20, "Pysic"),
